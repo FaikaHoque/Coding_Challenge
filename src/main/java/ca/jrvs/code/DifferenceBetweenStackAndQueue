@@ -1,0 +1,8 @@
+#########SHORT NOTES on STACK AND QUEUE##########
+
+## Diffference between Stack and Queue
+
+1) Data Strucutre of Stack is LIFO(Last in First out) and Queue is FIFO(First in First out)
+2)Key operations for Stack is PUSH and POP to insert and retrieve/remove an element from Stack.
+Key operations for Queue is offer() and poll() to insert and retreive from QUeue
+3) Elements are inserted at TOP in Stack while in case of Queue the elements are enquired at different end Head and Tail in Queue.
