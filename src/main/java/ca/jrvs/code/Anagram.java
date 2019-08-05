@@ -25,7 +25,7 @@ public class Anagram {
         }
         return true;
     }
-
+/*
     public static void main(String[] args)
     {
         Anagram anagram = new Anagram();
@@ -33,6 +33,6 @@ public class Anagram {
             System.out.println(true);
         else
             System.out.println(false);
-    }
+    }*/
 
 }
